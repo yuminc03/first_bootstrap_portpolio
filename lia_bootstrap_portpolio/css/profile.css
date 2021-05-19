@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(231, 231, 231);
+    font-family: sans-serif;
+}
+.card-img-top{
+    width: 100%;
+}
+.container > h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(82, 82, 82);
+}
+.previous{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+}
+.card-columns{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    width: 60%;
+}
+h4{
+    font-weight: bold;
+    color: rgb(82, 82, 82);
+}
+.card-columns p{
+    font-size: 13px;
+}
