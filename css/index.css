@@ -1,28 +1,44 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
-  }
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .content {
-height: 250px;
-width: 300px;
-background: rgb(216, 216, 216);
-border-radius: 10px;
-padding: 5px 5px;
-box-sizing: border-box;
-margin: 5px;
-color: dodgerblue;
+  height: 250px;
+  width: 300px;
+  background: rgb(216, 216, 216);
+  border-radius: 10px;
+  padding: 5px 5px;
+  box-sizing: border-box;
+  margin: 5px;
+  color: dodgerblue;
 }
-img {
-margin-top: 20px;
-margin-bottom: 50px;
-width: 300px;
-border-radius: 10px;
+
+.fakeimg {
+  height: 200px;
+  background: #aaa;
 }
+#star{
+  background-image: url("../imgs/stars.png");
+  height: 310px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#myphoto {
+  background-image: url("../imgs/me1.jpg");
+  height: 310px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
 h2 {
-color: rgb(21, 122, 255);
+  color: rgb(21, 122, 255);
 }
+
 h4 {
-color: floralwhite;
+  color: floralwhite;
 }
+
 h6 {
-color: rgb(53, 73, 255);
+  color: rgb(53, 73, 255);
 }
