@@ -17,8 +17,16 @@
   height: 200px;
   background: #aaa;
 }
+
 #star{
   background-image: url("../imgs/stars.png");
+  height: 310px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+#brightday{
+  background-image: url("../imgs/brightday.png");
   height: 310px;
   background-size: contain;
   background-repeat: no-repeat;
