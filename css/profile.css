@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(191, 232, 255);
     font-family: sans-serif;
 }
 .card-img-top{
@@ -8,7 +8,7 @@ body{
 .container > h2{
     font-size: 50px;
     font-weight: bold;
-    color: rgb(82, 82, 82);
+    color: rgb(47, 79, 255);
 }
 .previous{
     position: absolute;
@@ -23,7 +23,7 @@ body{
 }
 h4{
     font-weight: bold;
-    color: rgb(82, 82, 82);
+    color: dodgerblue;;
 }
 .card-columns p{
     font-size: 13px;
