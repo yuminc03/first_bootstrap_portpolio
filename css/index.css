@@ -12,6 +12,9 @@
   margin: 5px;
   color: dodgerblue;
 }
+.tab { 
+  white-space: pre; 
+}
 
 .fakeimg {
   height: 200px;
