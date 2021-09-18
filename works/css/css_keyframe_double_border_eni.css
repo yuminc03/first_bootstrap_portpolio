@@ -79,6 +79,11 @@ a {
     border-radius: 40% 60% 65% 35% / 40% 45% 55% 60%;border: 1px solid white;
     padding: 8px;
 }
+.previous{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+}
 @keyframes circle {
     0% {
         transform: rotate(0); 

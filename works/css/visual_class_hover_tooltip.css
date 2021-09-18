@@ -54,3 +54,8 @@ a{
     opacity: 1;
     visibility: visible;
 }
+.previous{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+}

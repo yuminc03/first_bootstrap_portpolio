@@ -4,10 +4,19 @@ body{
     line-height: 1.5em;
     font-weight: 300;
     margin: 0;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 a{
     color: #222;
     text-decoration: none;
+}
+img{
+    width: 300px;
+    height: 300px;
 }
 .items{
     /* border: 1px solid; */
@@ -47,4 +56,9 @@ a{
 }
 .item:hover .caption{
     opacity: 1;
+}
+.previous{
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
 }
