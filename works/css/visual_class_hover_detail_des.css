@@ -46,13 +46,15 @@ img{
 }
 .caption a{
     color: #fff;
-    background-color: teal;
+    background-color: crimson;
     padding: 7px;
     border-radius: 3px;
+    text-decoration: none;
 }
 .caption a:hover{
     background-color: #fff;
-    color: #000;
+    color: crimson;
+    transition: 0.4s;
 }
 .item:hover .caption{
     opacity: 1;
