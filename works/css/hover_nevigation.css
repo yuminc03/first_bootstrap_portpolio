@@ -24,6 +24,7 @@ a {
     font-size: 40px;
     margin: 20px 0;
     color: #fff;
+    text-decoration: none;
 }
 .gnb:hover a{
     opacity: 0.3;
