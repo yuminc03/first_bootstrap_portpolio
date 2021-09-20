@@ -6,7 +6,7 @@ body{
     width: 100%;
 }
 .container > h2{
-    font-size: 50px;
+    font-size: 36px;
     font-weight: bold;
     color: rgb(47, 79, 255);
 }
@@ -23,7 +23,11 @@ body{
 }
 h4{
     font-weight: bold;
-    color: dodgerblue;;
+    color: dodgerblue;
+}
+.intro{
+    color: black;
+    font-size: 16px;
 }
 .card-columns p{
     font-size: 13px;
