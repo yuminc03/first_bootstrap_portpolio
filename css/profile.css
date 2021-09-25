@@ -33,3 +33,15 @@ h4{
 .card-columns p{
     font-size: 13px;
 }
+.language{
+    width: 12%;
+    margin: 2%;
+}
+.language_2{
+    width: 16%;
+    margin: 2%;
+}
+.language_db{
+    width: 22%;
+    margin: 1%;
+}
