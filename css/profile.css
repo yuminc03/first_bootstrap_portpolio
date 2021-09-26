@@ -1,9 +1,16 @@
 body{
     background-color: rgb(191, 232, 255);
     font-family: sans-serif;
+    -ms-overflow-style: none; /*스크롤 바 없애기*/
+}
+::-webkit-scrollbar { /*스크롤 바 없애기*/
+    display: none; 
 }
 .card-img-top{
     width: 100%;
+}
+.card{
+    width: 18rem;
 }
 .container > h2{
     font-size: 36px;
@@ -45,3 +52,5 @@ h4{
     width: 22%;
     margin: 1%;
 }
+
+
