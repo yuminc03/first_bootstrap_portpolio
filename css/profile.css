@@ -17,8 +17,8 @@ body{
 /* .container {
     display: flex;
 } */
-.container > h2{
-    font-size: 36px;
+.container > h1{
+    font-size: 40px;
     font-weight: bold;
     color: dodgerblue;
     margin-top: 10px;
@@ -57,7 +57,7 @@ h4{
     font-size: 16px;
 }
 .card-columns p{
-    font-size: 13px;
+    font-size: 16px;
 }
 .language{
     width: 12%;
