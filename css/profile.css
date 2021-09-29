@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 body{
     background-color: rgb(191, 232, 255);
-    font-family: sans-serif;
+    font-family: 'Noto Sans KR', sans-serif;
     -ms-overflow-style: none; /*스크롤 바 없애기*/
     line-height: 1.5em;
     margin: 0;
