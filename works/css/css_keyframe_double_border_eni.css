@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
 body {
     line-height: 1.5em;
     margin: 0;
@@ -10,6 +11,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+
+    font-family: 'Noto Sans KR', sans-serif;
 }
 a {
     text-decoration: none;
