@@ -2,6 +2,9 @@
 body{
   font-family: 'Noto Sans KR', sans-serif;
 }
+.headline{
+  font-weight: 600;
+}
 
 .content {
   height: 250px;
