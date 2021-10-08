@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+
 body{
   font-family: 'Noto Sans KR', sans-serif;
 }
+
 .headline{
   font-weight: 600;
 }
@@ -30,6 +32,7 @@ body{
   height: 310px;
   background-size: contain;
   background-repeat: no-repeat;
+  border-radius: 10px;
 }
 
 #brightday{
@@ -37,13 +40,15 @@ body{
   height: 310px;
   background-size: contain;
   background-repeat: no-repeat;
+  border-radius: 10px;
 }
 
-#myphoto {
-  background-image: url("../imgs/me4.jpg");
+#myphoto > img {
   height: 310px;
   background-size: contain;
   background-repeat: no-repeat;
+  border-radius: 10px;
+  margin-bottom: 5%;
 }
 
 h2 {
