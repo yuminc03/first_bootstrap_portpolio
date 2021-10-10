@@ -27,22 +27,6 @@ body{
   background: #aaa;
 }
 
-#star{
-  background-image: url("../imgs/stars.png");
-  height: 310px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  border-radius: 10px;
-}
-
-#brightday{
-  background-image: url("../imgs/brightday.png");
-  height: 310px;
-  background-size: contain;
-  background-repeat: no-repeat;
-  border-radius: 10px;
-}
-
 #myphoto > img {
   height: 310px;
   background-size: contain;
