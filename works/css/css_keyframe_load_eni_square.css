@@ -4,7 +4,8 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: rgb(231, 231, 231);
+    /* background-color: rgb(231, 231, 231); */
+    background-color: #fff;
     font-family: 'Noto Sans KR', sans-serif;
 }
 a{

@@ -4,8 +4,8 @@ body{
     line-height: 1.5em;
     font-weight: 300;
     margin: 0;
-    background-color: rgb(231, 231, 231);
-
+    /* background-color: rgb(231, 231, 231); */
+    background-color: #fff;
     font-family: 'Noto Sans KR', sans-serif;
 }
 a{
